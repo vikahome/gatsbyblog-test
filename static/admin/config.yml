@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: saigowthamr/gatsbyblog-test #replace with your username/repo
+  repo: vikahome/gatsbyblog-test #replace with your username/repo
 
 media_folder: static/img
 public_folder: /img
